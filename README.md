@@ -10,7 +10,7 @@ En este repositorio de andan compilados una serie de documentos que tienen como 
 - **Classes-Basicas-Python-main** → Ejercicios básicos para repasar programación en Python.  
 - **AnálisisCalidadAguaIndia.ipynb** → Notebook para el análisis de calidad del agua en India usando modelos de Machine Learning.  
 - **LABORATORIO SPARK ACOSTA GONZALEZ GU...** → Práctica de procesamiento de datos distribuidos con Apache Spark.
-
+- **LabNoSupervisado_Jara.ipynb** → Aplicación del algoritmo K-Means con PySpark MLlib sobre el conjunto de datos Iris, siguiendo una metodología completa de análisis y clustering.
 ## Tecnologías utilizadas
 
 - **Python 3.10+**
